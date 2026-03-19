@@ -1,0 +1,7 @@
+gradio
+google-generativeai
+murf
+speechrecognition
+pydub
+requests
+ffmpeg-python
